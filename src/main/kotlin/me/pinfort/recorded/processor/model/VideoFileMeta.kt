@@ -9,5 +9,4 @@ data class VideoFileMeta(
     val path: String,
     val drops: Int,
     val splitFileCount: Int,
-    val hasSubtitles: Boolean
     )

@@ -8,4 +8,5 @@ data class SplitVideoFile(
     val length: Int,
     val fileSize: Long,
     val main: Boolean,
+    val hasSubtitles: Boolean,
 )

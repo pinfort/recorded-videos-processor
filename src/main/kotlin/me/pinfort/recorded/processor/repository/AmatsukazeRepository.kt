@@ -13,7 +13,8 @@ class AmatsukazeRepository {
             "",
             0,
             0,
-            false
+            main = false,
+            hasSubtitles = false
         )
     }
 }
